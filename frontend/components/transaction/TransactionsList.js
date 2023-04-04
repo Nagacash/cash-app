@@ -31,7 +31,7 @@ const TransactionsList = ({ connected, transactions }) => {
                         <p className="text-2xl font-medium">Please connect your wallet.</p>
                     </div>
                 )}
-            </div>
+            </div> 
         </div>
     )
 }

@@ -19,8 +19,10 @@ const Modal = ({ modalOpen, setModalOpen, children }) => {
                         </Transition.Child>
                     </div>
                 </div>
+               
             </Dialog>
         </Transition>
+        
     )
 }
 
